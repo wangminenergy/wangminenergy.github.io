@@ -1,5 +1,5 @@
 ---
-title: "guyuehome"
+title: "如何基于视觉深度强化学习实现机械臂抓取"
 collection: teaching
 type: "deep reinforcement learning"
 permalink: /teaching/guyuehome
