@@ -1,12 +1,9 @@
 ---
 title: "如何基于视觉深度强化学习实现机械臂抓取"
 collection: teaching
-type: "deep reinforcement learning"
+type: "https://class.guyuehome.com/detail/p_610c9bf8e4b0bf6430024656/6"
 permalink: /teaching/guyuehome
-venue: "guyuehome"
+venue: "从零实现基于视觉的深度强化学习在机械臂上的应用"
 date: 2021-08-01
-location: "Qingdao,China"
+location: 
 ---
-
-[如何基于视觉深度强化学习实现机械臂抓取](https://class.guyuehome.com/detail/p_610c9bf8e4b0bf6430024656/6)
-从零实现基于视觉的深度强化学习在机械臂上的应用
