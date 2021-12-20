@@ -1,7 +1,7 @@
 ---
 title: '强化学习的国外硕士论文'
 date: 2021-12-20
-permalink: /posts/master-thesis-of-reinforcement-learning
+permalink: /posts/2021/12/blog-post-1/
 tags:
   - 强化学习
   - 硕士论文
