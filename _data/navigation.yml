@@ -3,10 +3,7 @@ main:
   - title: "论文"
     url: /publications/
 
-  - title: "课程"
-    url: /teaching/    
-    
-  - title: "博客"
+  - title: "随笔"
     url: /year-archive/
     
   - title: "简历"
